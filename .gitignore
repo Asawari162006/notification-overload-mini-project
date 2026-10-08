@@ -1,0 +1,14 @@
+.venv/
+node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+data/raw/
+data/processed/
+artifacts/*
+!artifacts/.gitkeep
+*.db
+*.db-*
+*.log
+*.joblib
+.env
